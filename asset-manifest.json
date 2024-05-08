@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31140cee.css",
+    "main.js": "/static/js/main.8e8f171a.js",
+    "static/js/787.0fcac193.chunk.js": "/static/js/787.0fcac193.chunk.js",
+    "static/media/anilady.jpg": "/static/media/anilady.fc8b916c40a762a4129f.jpg",
+    "index.html": "/index.html",
+    "main.31140cee.css.map": "/static/css/main.31140cee.css.map",
+    "main.8e8f171a.js.map": "/static/js/main.8e8f171a.js.map",
+    "787.0fcac193.chunk.js.map": "/static/js/787.0fcac193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31140cee.css",
+    "static/js/main.8e8f171a.js"
+  ]
+}
